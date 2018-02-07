@@ -103,4 +103,3 @@ dependencies:
     - pyproj==1.9.5.1
     - qtconsole==4.3.1
     - shapely==1.6.4.post1
-prefix: /Users/James/anaconda/envs/twrn-geo
